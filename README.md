@@ -1,8 +1,4 @@
-#  Hello 
+# Our Team
 
 ---
-I am Fatih. this is how I look like
-
-![myphoto](./fatih.jpeg)
-
-- 
+This is our team 
